@@ -41,7 +41,7 @@ E-Commerce UI/UX Kit is a flat design ready for your e-commerce mobile applicati
 
 ## Quick start
 
-Read the [Getting started page](https://docs.ionicfirebaseapp.com/e-commerce-ui-kit/) for information E-Commerce UI-UX Kit.
+Read the [Getting started page](https://docs.ionicfirebaseapp.com/e-commerce-ui-kit/) for information about E-Commerce UI-UX Kit.
   ### Video Guide is Comming soon, Please keep support and encourage us through share and star so we can bring all these product as opensource.
   
 ## E-Commerce UI-UX Screens
